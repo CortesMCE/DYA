@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/t6_DYA.png" alt="Logo del Proyecto" width="200">
+  <img src="src/TituloDYA_T1.png" alt="Logo del Proyecto" width="200">
 </p>
 
 # Robótica impulsada por IA
