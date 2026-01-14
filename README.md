@@ -4,6 +4,15 @@
 
 # Robótica impulsada por IA
 
+<p align="center">
+  <a href="https://www.youtube.com/@CortesMCE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://x.com/001AStudios" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
 En este proyecto se busca crear bases para proyectos de robótica con cuerpos humanoides impulsados con modelos generativos locales. Nuestro objetivo es apoyar a la comunidad dejando todo de código abierto y documentando todo lo necesario para replicarlo.
 
 ---
