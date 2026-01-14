@@ -29,5 +29,5 @@ Muy pronto se estará subiendo todo el código del **Software ABY** para este di
 
 <br>
 <p align="center">
-  <img src="src/Cortes_t0" alt="Cortes" width="400">
+  <img src="src/Cortes_t0.png" alt="Cortes" width="400">
 </p>
