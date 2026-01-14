@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/TituloDYA_T1.png" alt="Logo del Proyecto" width="200">
+  <img src="src/TituloDYA_T1.png" alt="Logo del Proyecto" width="400">
 </p>
 
 # Robótica impulsada por IA
@@ -29,5 +29,5 @@ Muy pronto se estará subiendo todo el código del **Software ABY** para este di
 
 <br>
 <p align="center">
-  <img src="src/Cortes_t0.png" alt="Cortes" width="400">
+  <img src="src/Cortes_t0.png" alt="Cortes" width="350">
 </p>
