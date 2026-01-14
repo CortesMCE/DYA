@@ -2,8 +2,6 @@
   <img src="src/TituloDYA_T1.png" alt="Logo del Proyecto" width="400">
 </p>
 
-# Robótica impulsada por IA
-
 <p align="center">
   <a href="https://www.youtube.com/@CortesMCE" target="_blank">
     <img src="src/x.png" alt="YouTube" width="30">
@@ -12,6 +10,8 @@
     <img src="src/youtube.png" alt="Twitter" width="30">
   </a>
 </p>
+
+# Robótica impulsada por IA
 
 En este proyecto se busca crear bases para proyectos de robótica con cuerpos humanoides impulsados con modelos generativos locales. Nuestro objetivo es apoyar a la comunidad dejando todo de código abierto y documentando todo lo necesario para replicarlo.
 
