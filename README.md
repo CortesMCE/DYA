@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@CortesMCE" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="src/x.png" alt="YouTube">
   </a>
   <a href="https://x.com/001AStudios" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="src/youtube.png" alt="Twitter">
   </a>
 </p>
 
