@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RUTA_DE_TU_LOGO.png" alt="Logo del Proyecto" width="200">
+  <img src="src/t6_DYA.png" alt="Logo del Proyecto" width="200">
 </p>
 
 # Robótica impulsada por IA
@@ -29,5 +29,5 @@ Muy pronto se estará subiendo todo el código del **Software ABY** para este di
 
 <br>
 <p align="center">
-  <img src="RUTA_IMAGEN_FINAL.png" alt="Cortes" width="400">
+  <img src="src/Cortes_t0" alt="Cortes" width="400">
 </p>
