@@ -9,6 +9,9 @@
   <a href="https://x.com/001AStudios" target="_blank">
     <img src="src/x.png" alt="Twitter" width="30">
   </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="src/instagram.png" alt="Instagram" width="30">
+  </a>
 </p>
 
 # Robótica impulsada por IA
