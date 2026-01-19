@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@CortesMCE" target="_blank">
+  <a href="https://www.youtube.com/@DYA_CORTES" target="_blank">
     <img src="src/youtube.png" alt="YouTube" width="30">
   </a>
   <a href="https://x.com/001AStudios" target="_blank">
